@@ -9,6 +9,7 @@
     height: 100px;
     padding-top: 50px;
 }
-#info{
-    color: rgb(136, 136, 136)
+.info{
+    color: rgb(136, 136, 136);
+    margin-top: 0%;
 }
