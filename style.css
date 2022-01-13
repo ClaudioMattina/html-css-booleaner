@@ -13,3 +13,12 @@
     color: rgb(136, 136, 136);
     margin-top: 0%;
 }
+.evidenziato{
+    background-color: yellow;
+}
+#table{
+    padding-top: 80px;
+}
+#thead{
+    background-color: turquoise;
+}
