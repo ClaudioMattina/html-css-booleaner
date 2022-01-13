@@ -4,30 +4,6 @@
     background-image: url(img/pattern.png);
     background-size: contain;
 }
-#logo{
-    width: 500px;
-    height: 100px;
-    padding-top: 50px;
-}
-.info{
-    color: rgb(136, 136, 136);
-    margin-top: 0%;
-}
-.evidenziato{
-    background-color: yellow;
-}
-#table{
-    padding-top: 80px;
-}
-#thead{
-    background-color: rgb(2, 133, 255);
-    color: white;
-}
-.colorati{
-    background-color: rgb(90, 90, 250);
-}
-
-
 #lalala1{
     background-image: url(img/monitor.jpg);
     width: 300px;
@@ -45,4 +21,29 @@
 #info1{
     margin-top: 30px;
     padding-top: 50px;
+}
+#paragrafo{
+    padding-top: 50px;
+}
+#logo{
+    width: 500px;
+    height: 100px;
+    padding-top: 50px;
+}
+#table{
+    padding-top: 80px;
+}
+#thead{
+    background-color: rgb(2, 133, 255);
+    color: white;
+}
+.info{
+    color: rgb(136, 136, 136);
+    margin-top: 0%;
+}
+.evidenziato{
+    background-color: yellow;
+}
+.colorati{
+    background-color: rgb(90, 90, 250);
 }
