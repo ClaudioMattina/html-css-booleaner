@@ -4,14 +4,14 @@
     background-image: url(img/pattern.png);
     background-size: contain;
 }
-#lalala1{
+#interno-immagine1{
     background-image: url(img/monitor.jpg);
     width: 300px;
     height: 300px;
     display: block;
     color: white;
 }
-#lalala2{
+#interno-immagine2{
     background-image: url(img/graph.jpg);
     width: 300px;
     height: 300px;
