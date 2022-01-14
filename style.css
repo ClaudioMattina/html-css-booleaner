@@ -1,8 +1,12 @@
+table{
+    text-align: left;
+    border-spacing: 0px;
+}
 #immagine-lunga{
-    width: 100%;
     height: 200px;
     background-image: url(img/pattern.png);
     background-size: contain;
+    background-color: blue;
 }
 #interno-immagine1{
     background-image: url(img/monitor.jpg);
@@ -10,6 +14,7 @@
     height: 300px;
     display: block;
     color: white;
+    background-size: cover;
 }
 #interno-immagine2{
     background-image: url(img/graph.jpg);
@@ -17,6 +22,7 @@
     height: 300px;
     display: block;
     color: white;
+    background-size: cover;
 }
 #info1{
     margin-top: 30px;
@@ -26,9 +32,9 @@
     padding-top: 50px;
 }
 #logo{
-    width: 500px;
     height: 100px;
     padding-top: 50px;
+    margin-top: 60px;
 }
 #table{
     padding-top: 80px;
@@ -46,4 +52,7 @@
 }
 .colorati{
     background-color: rgb(90, 90, 250);
+}
+.spazio{
+    width: 33%;
 }
